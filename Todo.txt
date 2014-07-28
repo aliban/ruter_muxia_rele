@@ -1,0 +1,3 @@
+* Añadir interfaz web para la configuración de parametros
+* Añadir contador de reinicios
+* Añadir sensor de temperatura y humedad y publicar los datos en web
