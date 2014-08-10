@@ -1,0 +1,9 @@
+**
+** Version 0.4 10/08/2014
+**
+
+Se añade una salida de rele para activar el pulsador de conexión de 3G
+Se añade una variable de control para saber si estamos en el primer arranque y permitir el doble de paquetes perdidos
+Se añade un bucle de control de estado en primer arranque por si se pierde la alimentación
+Tiempo de arranque incrementado a 50 seg (tiempo de arranque en frio de 45 seg para el router)
+Se añade soporte para actualizar la información de NO-IP y poder acceder al router de modo remoto

@@ -1,3 +1,5 @@
 * Añadir interfaz web para la configuración de parametros
 * Añadir contador de reinicios
 * Añadir sensor de temperatura y humedad y publicar los datos en web
+* Leer la respuesta de NO-IP para estar seguros del resultado
+* Desplazar la actualizacion de NO-IP a una funcion
